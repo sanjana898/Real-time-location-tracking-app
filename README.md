@@ -26,7 +26,7 @@ A full-stack web application that tracks users' live geolocation using the brows
    git clone https://github.com/your-username/real-time-tracker.git
    cd real-time-tracker
 
-##⚠️ Permissions
+## ⚠️ Permissions
 The app requires permission to access your device's location via the browser.
 
 It works best in modern browsers like Chrome, Firefox, and Edge.
